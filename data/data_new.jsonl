@@ -1,0 +1,268 @@
+  {"input": "Estimate the surface area using the given dataset.", "output": "load dataset, calculate surface using data"}
+  {"input": "Perform regression on the data to predict the mass of objects.", "output": "load data, perform regression using data, and predict mass"}
+  {"input": "Count the clusters based on the calculated volume of the dataset.", "output": "load dataset, calculate clusters using volume, and count clusters"}
+  {"input": "What is the height of objects with a specific mass in the loaded dataset?", "output": "load dataset, calculate height using data and mass columns"}
+  {"input": "Cluster the data using the calculated regression results.", "output": "load data, calculate regression, and cluster"}
+  {"input": "Given the dataset, count the number of objects with a certain volume.", "output": "load dataset, calculate volume using data, and count objects with certain volume"}
+  {"input": "What is the density of objects in the loaded dataset?", "output": "load dataset, calculate density using data"}
+  {"input": "Perform a regression analysis on the dataset using the surface and height columns.", "output": "load dataset, perform regression using surface and height columns"}
+  {"input": "Count the number of clusters with objects having a specific surface area in the dataset.", "output": "load dataset, calculate clusters, and count clusters with specific surface area"}
+  {"input": "Estimate the height based on the regression results of the loaded dataset.", "output": "load dataset, calculate regression using data, and predict height"}
+  {"input": "Calculate the volume of objects in the dataset using the provided data.", "output": "load dataset, calculate volume using data"}
+  {"input": "What is the count of clusters with objects having a certain density?", "output": "load dataset, calculate clusters, and count clusters with certain density"}
+  {"input": "Train a model to predict the surface area based on the mass and volume of objects in the dataset.", "output": "load dataset, calculate surface using mass and volume columns, and perform regression"}
+  {"input": "Given the objects dataset, how many types of objects can be found based on their height?", "output": "load dataset, calculate clusters using height, and count clusters"}
+  {"input": "What is the total mass of objects in each cluster in the loaded dataset?", "output": "load dataset, calculate clusters, and calculate total mass in each cluster"}
+  {"input": "Cluster the data and estimate the density based on the regression results.", "output": "load data, cluster, calculate density using regression results"}
+  {"input": "What is the count of objects with a specific mass in the loaded dataset?", "output": "load dataset, calculate mass using data, and count objects with specific mass"}
+  {"input": "Calculate the overall density of objects in the loaded dataset.", "output": "load dataset, calculate density using data"}
+  {"input": "Perform regression analysis on the dataset to predict the height of objects.", "output": "load dataset, perform regression using data, and predict height"}
+  {"input": "Count the number of clusters based on the calculated density of the dataset.", "output": "load dataset, calculate clusters using density, and count clusters"}
+  {"input": "Can you cluster the data using the height and volume columns and then perform regression?", "output": "load dataset, calculate using height and volume columns, cluster, and perform regression"}
+  {"input": "Given the data, calculate the total mass of objects in the dataset.", "output": "load data, calculate mass using data, and calculate total mass"}
+  {"input": "What is the count of objects with a certain volume in the loaded dataset?", "output": "load dataset, calculate volume using data, and count objects with certain volume"}
+  {"input": "Train a model to predict the number of clusters based on the mass and volume of objects in the loaded dataset.", "output": "load dataset, calculate clusters using mass and volume columns, and perform regression to predict the number of clusters"}
+  {"input": "Estimate the surface area based on the calculated density of objects in the loaded dataset.", "output": "load dataset, calculate density using data, and calculate surface based on density"}
+  {"input": "Perform clustering on the dataset using the calculated surface and height columns.", "output": "load dataset, calculate using surface and height columns, and cluster"}
+  {"input": "Count the number of objects in each cluster based on their mass in the loaded dataset.", "output": "load dataset, calculate clusters, and count objects in each cluster based on mass"}
+  {"input": "What is the predicted height of objects in the loaded dataset based on the calculated regression?", "output": "load dataset, calculate regression using data, and predict height"}
+  {"input": "Calculate the overall volume of objects in the loaded dataset.", "output": "load dataset, calculate volume using data"}
+  {"input": "How many clusters can be identified based on the density of objects in the dataset?", "output": "load dataset, calculate clusters using density, and count clusters"}
+  {"input": "What is the height of objects with a specific volume in the loaded dataset?", "output": "load dataset, calculate height using data and volume columns"}
+  {"input": "Cluster the data and count the number of clusters based on their surface area.", "output": "load data, cluster, calculate surface, and count clusters based on surface area"}
+  {"input": "Given the dataset, estimate the mass based on the calculated volume.", "output": "load dataset, calculate volume using data, and perform regression to estimate mass"}
+  {"input": "What is the count of objects with a certain density in the loaded dataset?", "output": "load dataset, calculate density using data, and count objects with certain density"}
+  {"input": "Train a model to predict the number of clusters based on the surface area of objects in the dataset.", "output": "load dataset, calculate surface using data, and perform regression to predict the number of clusters"}
+  {"input": "Estimate the density based on the calculated regression results of the loaded dataset.", "output": "load dataset, calculate regression using data, and calculate density based on regression results"}
+  {"input": "Perform clustering on the dataset based on the height and volume columns.", "output": "load dataset, calculate using height and volume columns, and cluster"}
+  {"input": "Count the number of objects in each cluster based on their density in the loaded dataset.", "output": "load dataset, calculate clusters, and count objects in each cluster based on density"}
+  {"input": "What is the predicted mass of objects in the loaded dataset based on the calculated regression?", "output": "load dataset, calculate regression using data, and predict mass"}
+  {"input": "Calculate the overall surface area of objects in the loaded dataset.", "output": "load dataset, calculate surface using data"}
+  {"input": "How many clusters can be identified based on the surface area of objects in the dataset?", "output": "load dataset, calculate clusters using surface, and count clusters"}
+  {"input": "What is the mass of objects with a specific volume in the loaded dataset?", "output": "load dataset, calculate mass using data and volume columns"}
+  {"input": "Cluster the data and estimate the height based on the calculated regression results.", "output": "load data, cluster, calculate regression, and predict height"}
+  {"input": "Given the data, count the number of objects with a certain density in the loaded dataset.", "output": "load data, calculate density using data, and count objects with certain density"}
+  {"input": "What is the total volume of objects in the dataset based on the calculated density?", "output": "load dataset, calculate density using data, and calculate total volume based on density"}
+  {"input": "Train a model to predict the surface area based on the height and volume of objects in the loaded dataset.", "output": "load dataset, calculate surface using height and volume columns, and perform regression"}
+  {"input": "Estimate the density based on the calculated surface area of objects in the loaded dataset.", "output": "load dataset, calculate surface using data, and calculate density based on surface area"}
+  {"input": "Perform clustering on the dataset based on the calculated mass and volume columns.", "output": "load dataset, calculate mass and volume using data, and cluster"}
+  {"input": "Count the number of objects in each cluster based on their surface area in the loaded dataset.", "output": "load dataset, calculate clusters, and count objects in each cluster based on surface area"}
+  {"input": "What is the predicted volume of objects in the loaded dataset based on the calculated regression?", "output": "load dataset, calculate regression using data, and predict volume"}
+  {"input": "Calculate the overall density of objects in the loaded dataset.", "output": "load dataset, calculate density using data"}
+  {"input": "How many clusters can be identified based on the mass of objects in the dataset?", "output": "load dataset, calculate clusters using mass, and count clusters"}
+  {"input": "What is the height of objects with a specific density in the loaded dataset?", "output": "load dataset, calculate height using data and density columns"}
+  {"input": "Cluster the data and count the number of clusters based on their mass.", "output": "load data, cluster, calculate mass, and count clusters based on mass"}
+  {"input": "Given the dataset, estimate the volume based on the calculated density.", "output": "load dataset, calculate density using data, and perform regression to estimate volume"}
+  {"input": "What is the count of objects with a certain surface area in the loaded dataset?", "output": "load dataset, calculate surface using data, and count objects with certain surface area"}
+  {"input": "Train a model to predict the number of clusters based on the density and volume of objects in the loaded dataset.", "output": "load dataset, calculate density and volume using data, and perform regression to predict the number of clusters"}
+  {"input": "Estimate the mass based on the calculated regression results of the loaded dataset.", "output": "load dataset, calculate regression using data, and estimate mass based on regression results"}
+  {"input": "Perform clustering on the dataset based on the surface area and height columns.", "output": "load dataset, calculate surface and height using data, and cluster"}
+  {"input": "Count the number of objects in each cluster based on their mass in the loaded dataset.", "output": "load dataset, calculate clusters, and count objects in each cluster based on mass"}
+  {"input": "What is the predicted height of objects in the loaded dataset based on the calculated regression?", "output": "load dataset, calculate regression using data, and predict height"}
+  {"input": "Calculate the overall volume of objects in the loaded dataset.", "output": "load dataset, calculate volume using data"}
+  {"input": "How many clusters can be identified based on the density of objects in the dataset?", "output": "load dataset, calculate clusters using density, and count clusters"}
+  {"input": "What is the height of objects with a specific volume in the loaded dataset?", "output": "load dataset, calculate height using data and volume columns"}
+  {"input": "Cluster the data and estimate the height based on the calculated regression results.", "output": "load data, cluster, calculate regression, and predict height"}
+  {"input": "Given the data, count the number of objects with a certain density in the loaded dataset.", "output": "load data, calculate density using data, and count objects with certain density"}
+  {"input": "What is the total volume of objects in the dataset based on the calculated density?", "output": "load dataset, calculate density using data, and calculate total volume based on density"}
+  {"input": "Train a model to predict the surface area based on the height and volume of objects in the loaded dataset.", "output": "load dataset, calculate surface using height and volume columns, and perform regression"}
+  {"input": "Estimate the density based on the calculated surface area of objects in the loaded dataset.", "output": "load dataset, calculate surface using data, and calculate density based on surface area"}
+  {"input": "Perform clustering on the dataset based on the calculated mass and volume columns.", "output": "load dataset, calculate mass and volume using data, and cluster"}
+  {"input": "Count the number of objects in each cluster based on their surface area in the loaded dataset.", "output": "load dataset, calculate clusters, and count objects in each cluster based on surface area"}
+  {"input": "What is the predicted volume of objects in the loaded dataset based on the calculated regression?", "output": "load dataset, calculate regression using data, and predict volume"}
+  {"input": "Calculate the overall density of objects in the loaded dataset.", "output": "load dataset, calculate density using data"}
+  {"input": "How many clusters can be identified based on the mass of objects in the dataset?", "output": "load dataset, calculate clusters using mass, and count clusters"}
+  {"input": "What is the height of objects with a specific density in the loaded dataset?", "output": "load dataset, calculate height using data and density columns"}
+  {"input": "Cluster the data and count the number of clusters based on their mass.", "output": "load data, cluster, calculate mass, and count clusters based on mass"}
+  {"input": "Given the dataset, estimate the volume based on the calculated density.", "output": "load dataset, calculate density using data, and perform regression to estimate volume"}
+  {"input": "What is the count of objects with a certain surface area in the loaded dataset?", "output": "load dataset, calculate surface using data, and count objects with certain surface area"}
+  {"input": "Train a model to predict the number of clusters based on the density and volume of objects in the loaded dataset.", "output": "load dataset, calculate density and volume using data, and perform regression to predict the number of clusters"}
+  {"input": "Estimate the mass based on the calculated regression results of the loaded dataset.", "output": "load dataset, calculate regression using data, and estimate mass based on regression results"}
+  {"input": "Perform clustering on the dataset based on the surface area and height columns.", "output": "load dataset, calculate surface and height using data, and cluster"}
+  {"input": "Count the number of objects in each cluster based on their mass in the loaded dataset.", "output": "load dataset, calculate clusters, and count objects in each cluster based on mass"}
+  {"input": "What is the predicted height of objects in the loaded dataset based on the calculated regression?", "output": "load dataset, calculate regression using data, and predict height"}
+  {"input": "Calculate the overall volume of objects in the loaded dataset.", "output": "load dataset, calculate volume using data"}
+  {"input": "How many clusters can be identified based on the density of objects in the dataset?", "output": "load dataset, calculate clusters using density, and count clusters"}
+  {"input": "What is the height of objects with a specific volume in the loaded dataset?", "output": "load dataset, calculate height using data and volume columns"}
+  {"input": "Cluster the data and estimate the height based on the calculated regression results.", "output": "load data, cluster, calculate regression, and predict height"}
+  {"input": "Given the data, count the number of objects with a certain density in the loaded dataset.", "output": "load data, calculate density using data, and count objects with certain density"}
+  {"input": "What is the total volume of objects in the dataset based on the calculated density?", "output": "load dataset, calculate density using data, and calculate total volume based on density"}
+  {"input": "Train a model to predict the surface area based on the height and volume of objects in the loaded dataset.", "output": "load dataset, calculate surface using height and volume columns, and perform regression"}
+  {"input": "Estimate the density based on the calculated surface area of objects in the loaded dataset.", "output": "load dataset, calculate surface using data, and calculate density based on surface area"}
+  {"input": "Perform clustering on the dataset based on the calculated mass and volume columns.", "output": "load dataset, calculate mass and volume using data, and cluster"}
+  {"input": "Count the number of objects in each cluster based on their surface area in the loaded dataset.", "output": "load dataset, calculate clusters, and count objects in each cluster based on surface area"}
+  {"input": "What is the predicted volume of objects in the loaded dataset based on the calculated regression?", "output": "load dataset, calculate regression using data, and predict volume"}
+  {"input": "Calculate the overall density of objects in the loaded dataset.", "output": "load dataset, calculate density using data"}
+  {"input": "How many clusters can be identified based on the mass of objects in the dataset?", "output": "load dataset, calculate clusters using mass, and count clusters"}
+  {"input": "What is the height of objects with a specific density in the loaded dataset?", "output": "load dataset, calculate height using data and density columns"}
+  {"input": "Cluster the data and count the number of clusters based on their mass.", "output": "load data, cluster, calculate mass, and count clusters based on mass"}
+  {"input": "Given the dataset, estimate the volume based on the calculated density.", "output": "load dataset, calculate density using data, and perform regression to estimate volume"}
+  {"input": "What is the count of objects with a certain surface area in the loaded dataset?", "output": "load dataset, calculate surface using data, and count objects with certain surface area"}
+  {"input": "Train a model to predict the number of clusters based on the density and volume of objects in the loaded dataset.", "output": "load dataset, calculate density and volume using data, and perform regression to predict the number of clusters"}
+  {"input": "Estimate the mass based on the calculated regression results of the loaded dataset.", "output": "load dataset, calculate regression using data, and estimate mass based on regression results"}
+  {"input": "Perform clustering on the dataset based on the surface area and height columns.", "output": "load dataset, calculate surface and height using data, and cluster"}
+  {"input": "Count the number of objects in each cluster based on their mass in the loaded dataset.", "output": "load dataset, calculate clusters, and count objects in each cluster based on mass"}
+  {"input": "What is the predicted height of objects in the loaded dataset based on the calculated regression?", "output": "load dataset, calculate regression using data, and predict height"}
+  {"input": "Calculate the overall volume of objects in the loaded dataset.", "output": "load dataset, calculate volume using data"}
+  {"input": "How many clusters can be identified based on the density of objects in the dataset?", "output": "load dataset, calculate clusters using density, and count clusters"}
+  {"input": "What is the height of objects with a specific volume in the loaded dataset?", "output": "load dataset, calculate height using data and volume columns"}
+  {"input": "Cluster the data and estimate the height based on the calculated regression results.", "output": "load data, cluster, calculate regression, and predict height"}
+  {"input": "Given the data, count the number of objects with a certain density in the loaded dataset.", "output": "load data, calculate density using data, and count objects with certain density"}
+  {"input": "What is the total volume of objects in the dataset based on the calculated density?", "output": "load dataset, calculate density using data, and calculate total volume based on density"}
+  {"input": "Train a model to predict the surface area based on the height and volume of objects in the loaded dataset.", "output": "load dataset, calculate surface using height and volume columns, and perform regression"}
+  {"input": "Estimate the density based on the calculated surface area of objects in the loaded dataset.", "output": "load dataset, calculate surface using data, and calculate density based on surface area"}
+  {"input": "Perform clustering on the dataset based on the calculated mass and volume columns.", "output": "load dataset, calculate mass and volume using data, and cluster"}
+  {"input": "Count the number of objects in each cluster based on their surface area in the loaded dataset.", "output": "load dataset, calculate clusters, and count objects in each cluster based on surface area"}
+  {"input": "What is the predicted volume of objects in the loaded dataset based on the calculated regression?", "output": "load dataset, calculate regression using data, and predict volume"}
+  {"input": "Calculate the overall density of objects in the loaded dataset.", "output": "load dataset, calculate density using data"}
+  {"input": "How many clusters can be identified based on the mass of objects in the dataset?", "output": "load dataset, calculate clusters using mass, and count clusters"}
+  {"input": "What is the height of objects with a specific density in the loaded dataset?", "output": "load dataset, calculate height using data and density columns"}
+  {"input": "Cluster the data and count the number of clusters based on their mass.", "output": "load data, cluster, calculate mass, and count clusters based on mass"}
+  {"input": "Given the dataset, estimate the volume based on the calculated density.", "output": "load dataset, calculate density using data, and perform regression to estimate volume"}
+  {"input": "What is the count of objects with a certain surface area in the loaded dataset?", "output": "load dataset, calculate surface using data, and count objects with certain surface area"}
+  {"input": "Train a model to predict the number of clusters based on the density and volume of objects in the loaded dataset.", "output": "load dataset, calculate density and volume using data, and perform regression to predict the number of clusters"}
+  {"input": "Estimate the mass based on the calculated regression results of the loaded dataset.", "output": "load dataset, calculate regression using data, and estimate mass based on regression results"}
+  {"input": "Perform clustering on the dataset based on the surface area and height columns.", "output": "load dataset, calculate surface and height using data, and cluster"}
+  {"input": "Count the number of objects in each cluster based on their mass in the loaded dataset.", "output": "load dataset, calculate clusters, and count objects in each cluster based on mass"}
+  {"input": "What is the predicted height of objects in the loaded dataset based on the calculated regression?", "output": "load dataset, calculate regression using data, and predict height"}
+  {"input": "Calculate the overall volume of objects in the loaded dataset.", "output": "load dataset, calculate volume using data"}
+  {"input": "How many clusters can be identified based on the density of objects in the dataset?", "output": "load dataset, calculate clusters using density, and count clusters"}
+  {"input": "What is the height of objects with a specific volume in the loaded dataset?", "output": "load dataset, calculate height using data and volume columns"}
+  {"input": "Cluster the data and estimate the height based on the calculated regression results.", "output": "load data, cluster, calculate regression, and predict height"}
+  {"input": "Given the data, count the number of objects with a certain density in the loaded dataset.", "output": "load data, calculate density using data, and count objects with certain density"}
+  {"input": "What is the total volume of objects in the dataset based on the calculated density?", "output": "load dataset, calculate density using data, and calculate total volume based on density"}
+  {"input": "Train a model to predict the surface area based on the height and volume of objects in the loaded dataset.", "output": "load dataset, calculate surface using height and volume columns, and perform regression"}
+  {"input": "Estimate the density based on the calculated surface area of objects in the loaded dataset.", "output": "load dataset, calculate surface using data, and calculate density based on surface area"}
+  {"input": "Perform clustering on the dataset based on the calculated mass and volume columns.", "output": "load dataset, calculate mass and volume using data, and cluster"}
+  {"input": "Count the number of objects in each cluster based on their surface area in the loaded dataset.", "output": "load dataset, calculate clusters, and count objects in each cluster based on surface area"}
+  {"input": "What is the predicted volume of objects in the loaded dataset based on the calculated regression?", "output": "load dataset, calculate regression using data, and predict volume"}
+  {"input": "Calculate the overall density of objects in the loaded dataset.", "output": "load dataset, calculate density using data"}
+  {"input": "How many clusters can be identified based on the mass of objects in the dataset?", "output": "load dataset, calculate clusters using mass, and count clusters"}
+  {"input": "What is the height of objects with a specific density in the loaded dataset?", "output": "load dataset, calculate height using data and density columns"}
+  {"input": "Cluster the data and count the number of clusters based on their mass.", "output": "load data, cluster, calculate mass, and count clusters based on mass"}
+  {"input": "Given the dataset, estimate the volume based on the calculated density.", "output": "load dataset, calculate density using data, and perform regression to estimate volume"}
+  {"input": "What is the count of objects with a certain surface area in the loaded dataset?", "output": "load dataset, calculate surface using data, and count objects with certain surface area"}
+  {"input": "Train a model to predict the number of clusters based on the density and volume of objects in the loaded dataset.", "output": "load dataset, calculate density and volume using data, and perform regression to predict the number of clusters"}
+  {"input": "Estimate the mass based on the calculated regression results of the loaded dataset.", "output": "load dataset, calculate regression using data, and estimate mass based on regression results"}
+  {"input": "Perform clustering on the dataset based on the surface area and height columns.", "output": "load dataset, calculate surface and height using data, and cluster"}
+  {"input": "Count the number of objects in each cluster based on their mass in the loaded dataset.", "output": "load dataset, calculate clusters, and count objects in each cluster based on mass"}
+  {"input": "What is the predicted height of objects in the loaded dataset based on the calculated regression?", "output": "load dataset, calculate regression using data, and predict height"}
+  {"input": "Calculate the overall volume of objects in the loaded dataset.", "output": "load dataset, calculate volume using data"}
+  {"input": "How many clusters can be identified based on the density of objects in the dataset?", "output": "load dataset, calculate clusters using density, and count clusters"}
+  {"input": "What is the height of objects with a specific volume in the loaded dataset?", "output": "load dataset, calculate height using data and volume columns"}
+  {"input": "Cluster the data and estimate the height based on the calculated regression results.", "output": "load data, cluster, calculate regression, and predict height"}
+  {"input": "Given the data, count the number of objects with a certain density in the loaded dataset.", "output": "load data, calculate density using data, and count objects with certain density"}
+  {"input": "What is the total volume of objects in the dataset based on the calculated density?", "output": "load dataset, calculate density using data, and calculate total volume based on density"}
+  {"input": "Train a model to predict the surface area based on the height and volume of objects in the loaded dataset.", "output": "load dataset, calculate surface using height and volume columns, and perform regression"}
+  {"input": "Estimate the density based on the calculated surface area of objects in the loaded dataset.", "output": "load dataset, calculate surface using data, and calculate density based on surface area"}
+  {"input": "Perform clustering on the dataset based on the calculated mass and volume columns.", "output": "load dataset, calculate mass and volume using data, and cluster"}
+  {"input": "Count the number of objects in each cluster based on their surface area in the loaded dataset.", "output": "load dataset, calculate clusters, and count objects in each cluster based on surface area"}
+  {"input": "What is the predicted volume of objects in the loaded dataset based on the calculated regression?", "output": "load dataset, calculate regression using data, and predict volume"}
+  {"input": "Calculate the overall density of objects in the loaded dataset.", "output": "load dataset, calculate density using data"}
+  {"input": "How many clusters can be identified based on the mass of objects in the dataset?", "output": "load dataset, calculate clusters using mass, and count clusters"}
+  {"input": "What is the height of objects with a specific density in the loaded dataset?", "output": "load dataset, calculate height using data and density columns"}
+  {"input": "Cluster the data and count the number of clusters based on their mass.", "output": "load data, cluster, calculate mass, and count clusters based on mass"}
+  {"input": "Given the dataset, estimate the volume based on the calculated density.", "output": "load dataset, calculate density using data, and perform regression to estimate volume"}
+  {"input": "What is the count of objects with a certain surface area in the loaded dataset?", "output": "load dataset, calculate surface using data, and count objects with certain surface area"}
+  {"input": "Train a model to predict the number of clusters based on the density and volume of objects in the loaded dataset.", "output": "load dataset, calculate density and volume using data, and perform regression to predict the number of clusters"}
+  {"input": "Estimate the mass based on the calculated regression results of the loaded dataset.", "output": "load dataset, calculate regression using data, and estimate mass based on regression results"}
+  {"input": "Perform clustering on the dataset based on the surface area and height columns.", "output": "load dataset, calculate surface and height using data, and cluster"}
+  {"input": "Count the number of objects in each cluster based on their mass in the loaded dataset.", "output": "load dataset, calculate clusters, and count objects in each cluster based on mass"}
+  {"input": "What is the predicted height of objects in the loaded dataset based on the calculated regression?", "output": "load dataset, calculate regression using data, and predict height"}
+  {"input": "Calculate the overall volume of objects in the loaded dataset.", "output": "load dataset, calculate volume using data"}
+  {"input": "How many clusters can be identified based on the density of objects in the dataset?", "output": "load dataset, calculate clusters using density, and count clusters"}
+  {"input": "What is the height of objects with a specific volume in the loaded dataset?", "output": "load dataset, calculate height using data and volume columns"}
+  {"input": "Cluster the data and estimate the height based on the calculated regression results.", "output": "load data, cluster, calculate regression, and predict height"}
+  {"input": "Given the data, count the number of objects with a certain density in the loaded dataset.", "output": "load data, calculate density using data, and count objects with certain density"}
+  {"input": "What is the total volume of objects in the dataset based on the calculated density?", "output": "load dataset, calculate density using data, and calculate total volume based on density"}
+  {"input": "Train a model to predict the surface area based on the height and volume of objects in the loaded dataset.", "output": "load dataset, calculate surface using height and volume columns, and perform regression"}
+  {"input": "Estimate the density based on the calculated surface area of objects in the loaded dataset.", "output": "load dataset, calculate surface using data, and calculate density based on surface area"}
+  {"input": "Perform clustering on the dataset based on the calculated mass and volume columns.", "output": "load dataset, calculate mass and volume using data, and cluster"}
+  {"input": "Count the number of objects in each cluster based on their surface area in the loaded dataset.", "output": "load dataset, calculate clusters, and count objects in each cluster based on surface area"}
+  {"input": "What is the predicted volume of objects in the loaded dataset based on the calculated regression?", "output": "load dataset, calculate regression using data, and predict volume"}
+  {"input": "Calculate the overall density of objects in the loaded dataset.", "output": "load dataset, calculate density using data"}
+  {"input": "How many clusters can be identified based on the mass of objects in the dataset?", "output": "load dataset, calculate clusters using mass, and count clusters"}
+  {"input": "What is the height of objects with a specific density in the loaded dataset?", "output": "load dataset, calculate height using data and density columns"}
+  {"input": "Cluster the data and count the number of clusters based on their mass.", "output": "load data, cluster, calculate mass, and count clusters based on mass"}
+  {"input": "Given the dataset, estimate the volume based on the calculated density.", "output": "load dataset, calculate density using data, and perform regression to estimate volume"}
+  {"input": "What is the count of objects with a certain surface area in the loaded dataset?", "output": "load dataset, calculate surface using data, and count objects with certain surface area"}
+  {"input": "Train a model to predict the number of clusters based on the density and volume of objects in the loaded dataset.", "output": "load dataset, calculate density and volume using data, and perform regression to predict the number of clusters"}
+  {"input": "Estimate the mass based on the calculated regression results of the loaded dataset.", "output": "load dataset, calculate regression using data, and estimate mass based on regression results"}
+  {"input": "Perform clustering on the dataset based on the surface area and height columns.", "output": "load dataset, calculate surface and height using data, and cluster"}
+  {"input": "Count the number of objects in each cluster based on their mass in the loaded dataset.", "output": "load dataset, calculate clusters, and count objects in each cluster based on mass"}
+  {"input": "What is the predicted height of objects in the loaded dataset based on the calculated regression?", "output": "load dataset, calculate regression using data, and predict height"}
+  {"input": "Calculate the overall volume of objects in the loaded dataset.", "output": "load dataset, calculate volume using data"}
+  {"input": "How many clusters can be identified based on the density of objects in the dataset?", "output": "load dataset, calculate clusters using density, and count clusters"}
+  {"input": "What is the height of objects with a specific volume in the loaded dataset?", "output": "load dataset, calculate height using data and volume columns"}
+  {"input": "Cluster the data and estimate the height based on the calculated regression results.", "output": "load data, cluster, calculate regression, and predict height"}
+  {"input": "Given the data, count the number of objects with a certain density in the loaded dataset.", "output": "load data, calculate density using data, and count objects with certain density"}
+  {"input": "What is the total volume of objects in the dataset based on the calculated density?", "output": "load dataset, calculate density using data, and calculate total volume based on density"}
+  {"input": "Train a model to predict the surface area based on the height and volume of objects in the loaded dataset.", "output": "load dataset, calculate surface using height and volume columns, and perform regression"}
+  {"input": "Estimate the density based on the calculated surface area of objects in the loaded dataset.", "output": "load dataset, calculate surface using data, and calculate density based on surface area"}
+  {"input": "Perform clustering on the dataset based on the calculated mass and volume columns.", "output": "load dataset, calculate mass and volume using data, and cluster"}
+  {"input": "Count the number of objects in each cluster based on their surface area in the loaded dataset.", "output": "load dataset, calculate clusters, and count objects in each cluster based on surface area"}
+  {"input": "What is the predicted volume of objects in the loaded dataset based on the calculated regression?", "output": "load dataset, calculate regression using data, and predict volume"}
+  {"input": "Calculate the overall density of objects in the loaded dataset.", "output": "load dataset, calculate density using data"}
+  {"input": "How many clusters can be identified based on the mass of objects in the dataset?", "output": "load dataset, calculate clusters using mass, and count clusters"}
+  {"input": "What is the height of objects with a specific density in the loaded dataset?", "output": "load dataset, calculate height using data and density columns"}
+  {"input": "Cluster the data and count the number of clusters based on their mass.", "output": "load data, cluster, calculate mass, and count clusters based on mass"}
+  {"input": "Given the dataset, estimate the volume based on the calculated density.", "output": "load dataset, calculate density using data, and perform regression to estimate volume"}
+  {"input": "What is the count of objects with a certain surface area in the loaded dataset?", "output": "load dataset, calculate surface using data, and count objects with certain surface area"}
+  {"input": "Train a model to predict the number of clusters based on the density and volume of objects in the loaded dataset.", "output": "load dataset, calculate density and volume using data, and perform regression to predict the number of clusters"}
+  {"input": "Estimate the mass based on the calculated regression results of the loaded dataset.", "output": "load dataset, calculate regression using data, and estimate mass based on regression results"}
+  {"input": "Perform clustering on the dataset based on the surface area and height columns.", "output": "load dataset, calculate surface and height using data, and cluster"}
+  {"input": "Count the number of objects in each cluster based on their mass in the loaded dataset.", "output": "load dataset, calculate clusters, and count objects in each cluster based on mass"}
+  {"input": "What is the predicted height of objects in the loaded dataset based on the calculated regression?", "output": "load dataset, calculate regression using data, and predict height"}
+  {"input": "Calculate the overall volume of objects in the loaded dataset.", "output": "load dataset, calculate volume using data"}
+  {"input": "How many clusters can be identified based on the density of objects in the dataset?", "output": "load dataset, calculate clusters using density, and count clusters"}
+  {"input": "What is the height of objects with a specific volume in the loaded dataset?", "output": "load dataset, calculate height using data and volume columns"}
+  {"input": "Cluster the data and estimate the height based on the calculated regression results.", "output": "load data, cluster, calculate regression, and predict height"}
+  {"input": "Given the data, count the number of objects with a certain density in the loaded dataset.", "output": "load data, calculate density using data, and count objects with certain density"}
+  {"input": "What is the total volume of objects in the dataset based on the calculated density?", "output": "load dataset, calculate density using data, and calculate total volume based on density"}
+  {"input": "Train a model to predict the surface area based on the height and volume of objects in the loaded dataset.", "output": "load dataset, calculate surface using height and volume columns, and perform regression"}
+  {"input": "Estimate the density based on the calculated surface area of objects in the loaded dataset.", "output": "load dataset, calculate surface using data, and calculate density based on surface area"}
+  {"input": "Perform clustering on the dataset based on the calculated mass and volume columns.", "output": "load dataset, calculate mass and volume using data, and cluster"}
+  {"input": "Count the number of objects in each cluster based on their surface area in the loaded dataset.", "output": "load dataset, calculate clusters, and count objects in each cluster based on surface area"}
+  {"input": "What is the predicted volume of objects in the loaded dataset based on the calculated regression?", "output": "load dataset, calculate regression using data, and predict volume"}
+  {"input": "Calculate the overall density of objects in the loaded dataset.", "output": "load dataset, calculate density using data"}
+  {"input": "How many clusters can be identified based on the mass of objects in the dataset?", "output": "load dataset, calculate clusters using mass, and count clusters"}
+  {"input": "What is the height of objects with a specific density in the loaded dataset?", "output": "load dataset, calculate height using data and density columns"}
+  {"input": "Cluster the data and count the number of clusters based on their mass.", "output": "load data, cluster, calculate mass, and count clusters based on mass"}
+  {"input": "Given the dataset, estimate the volume based on the calculated density.", "output": "load dataset, calculate density using data, and perform regression to estimate volume"}
+  {"input": "What is the count of objects with a certain surface area in the loaded dataset?", "output": "load dataset, calculate surface using data, and count objects with certain surface area"}
+  {"input": "Train a model to predict the number of clusters based on the density and volume of objects in the loaded dataset.", "output": "load dataset, calculate density and volume using data, and perform regression to predict the number of clusters"}
+  {"input": "Estimate the mass based on the calculated regression results of the loaded dataset.", "output": "load dataset, calculate regression using data, and estimate mass based on regression results"}
+  {"input": "Perform clustering on the dataset based on the surface area and height columns.", "output": "load dataset, calculate surface and height using data, and cluster"}
+  {"input": "Count the number of objects in each cluster based on their mass in the loaded dataset.", "output": "load dataset, calculate clusters, and count objects in each cluster based on mass"}
+  {"input": "What is the predicted height of objects in the loaded dataset based on the calculated regression?", "output": "load dataset, calculate regression using data, and predict height"}
+  {"input": "Calculate the overall volume of objects in the loaded dataset.", "output": "load dataset, calculate volume using data"}
+  {"input": "How many clusters can be identified based on the density of objects in the dataset?", "output": "load dataset, calculate clusters using density, and count clusters"}
+  {"input": "What is the height of objects with a specific volume in the loaded dataset?", "output": "load dataset, calculate height using data and volume columns"}
+  {"input": "Cluster the data and estimate the height based on the calculated regression results.", "output": "load data, cluster, calculate regression, and predict height"}
+  {"input": "Given the data, count the number of objects with a certain density in the loaded dataset.", "output": "load data, calculate density using data, and count objects with certain density"}
+  {"input": "What is the total volume of objects in the dataset based on the calculated density?", "output": "load dataset, calculate density using data, and calculate total volume based on density"}
+  {"input": "Train a model to predict the surface area based on the height and volume of objects in the loaded dataset.", "output": "load dataset, calculate surface using height and volume columns, and perform regression"}
+  {"input": "Estimate the density based on the calculated surface area of objects in the loaded dataset.", "output": "load dataset, calculate surface using data, and calculate density based on surface area"}
+  {"input": "Perform clustering on the dataset based on the calculated mass and volume columns.", "output": "load dataset, calculate mass and volume using data, and cluster"}
+  {"input": "Count the number of objects in each cluster based on their surface area in the loaded dataset.", "output": "load dataset, calculate clusters, and count objects in each cluster based on surface area"}
+  {"input": "What is the predicted volume of objects in the loaded dataset based on the calculated regression?", "output": "load dataset, calculate regression using data, and predict volume"}
+  {"input": "Calculate the overall density of objects in the loaded dataset.", "output": "load dataset, calculate density using data"}
+  {"input": "How many clusters can be identified based on the mass of objects in the dataset?", "output": "load dataset, calculate clusters using mass, and count clusters"}
+  {"input": "What is the height of objects with a specific density in the loaded dataset?", "output": "load dataset, calculate height using data and density columns"}
+  {"input": "Cluster the data and count the number of clusters based on their mass.", "output": "load data, cluster, calculate mass, and count clusters based on mass"}
+  {"input": "Given the dataset, estimate the volume based on the calculated density.", "output": "load dataset, calculate density using data, and perform regression to estimate volume"}
+  {"input": "What is the count of objects with a certain surface area in the loaded dataset?", "output": "load dataset, calculate surface using data, and count objects with certain surface area"}
+  {"input": "Train a model to predict the number of clusters based on the density and volume of objects in the loaded dataset.", "output": "load dataset, calculate density and volume using data, and perform regression to predict the number of clusters"}
+  {"input": "Estimate the mass based on the calculated regression results of the loaded dataset.", "output": "load dataset, calculate regression using data, and estimate mass based on regression results"}
+  {"input": "Perform clustering on the dataset based on the surface area and height columns.", "output": "load dataset, calculate surface and height using data, and cluster"}
+  {"input": "Count the number of objects in each cluster based on their mass in the loaded dataset.", "output": "load dataset, calculate clusters, and count objects in each cluster based on mass"}
+  {"input": "What is the predicted height of objects in the loaded dataset based on the calculated regression?", "output": "load dataset, calculate regression using data, and predict height"}
+  {"input": "Calculate the overall volume of objects in the loaded dataset.", "output": "load dataset, calculate volume using data"}
+  {"input": "How many clusters can be identified based on the density of objects in the dataset?", "output": "load dataset, calculate clusters using density, and count clusters"}
+  {"input": "What is the height of objects with a specific volume in the loaded dataset?", "output": "load dataset, calculate height using data and volume columns"}
+  {"input": "Cluster the data and estimate the height based on the calculated regression results.", "output": "load data, cluster, calculate regression, and predict height"}
+  {"input": "Given the data, count the number of objects with a certain density in the loaded dataset.", "output": "load data, calculate density using data, and count objects with certain density"}
+  {"input": "What is the total volume of objects in the dataset based on the calculated density?", "output": "load dataset, calculate density using data, and calculate total volume based on density"}
+  {"input": "Train a model to predict the surface area based on the height and volume of objects in the loaded dataset.", "output": "load dataset, calculate surface using height and volume columns, and perform regression"}
+  {"input": "Estimate the density based on the calculated surface area of objects in the loaded dataset.", "output": "load dataset, calculate surface using data, and calculate density based on surface area"}
+

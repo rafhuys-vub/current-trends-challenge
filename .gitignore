@@ -1,0 +1,5 @@
+llama2-7b-journal-finetune/
+chromadb/
+.ipynb_checkpoints/
+.venv/
+venv/
