@@ -6,7 +6,7 @@ install:
 	@echo "Activating virtual environment..."
 	. venv/bin/activate
 	@echo "Installing dependencies..."
-	pip install flask chromadb sentence_transformers ollama  uuid
+	pip install -r requirements.txt
 
 run:
 	@echo "Activating virtual environment..."
